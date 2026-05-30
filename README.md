@@ -19,7 +19,15 @@ Undergraduate student interested in robotics, ROS, embodied AI, and AI-assisted 
 
 ## Technologies
 
-`Python` `C` `C++` `Linux` `ROS` `Git` `Docker` `PyTorch` `Markdown`
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,linux,ros,git,docker,pytorch,latex,md,vscode)](https://skillicons.dev)
+
+`Python` `C` `C++` `Linux` `ROS` `Git` `Docker` `PyTorch` `LaTeX` `Markdown` `VS Code`
+
+## GitHub Activity
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wjaywhy&layout=compact&theme=transparent)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wjaywhy&show_icons=true&theme=transparent)
 
 ## Projects
 
