@@ -1,52 +1,56 @@
-# Hi, I'm Wjaywhy
+<div align="center">
 
-Undergraduate student interested in robotics, ROS, embodied AI, and AI-assisted engineering systems.
+# Hi, I'm Wang Jiyi 👋
 
-## About Me
+### Robotics · ROS · Embodied AI · AI4LCA
 
-- Studying Electronic Information Engineering at Shenzhen University.
-- Working on ROS-based mobile robot navigation and control.
-- Exploring embodied intelligence, robot learning, and VLA models.
-- Interested in AI4LCA, scientific benchmarking, and reproducible experiments.
-- Building practical tools for robotics competitions and research projects.
+Undergraduate student interested in robotics, intelligent systems, and AI-assisted engineering research.
 
-## Current Focus
+[![GitHub](https://img.shields.io/badge/GitHub-Wjaywhy-181717?style=flat-square&logo=github)](https://github.com/Wjaywhy)
+![Profile Views](https://komarev.com/ghpvc/?username=Wjaywhy&style=flat-square)
 
-- ROS navigation and mobile robot control
-- Embodied AI and robot learning
-- AI4LCA activity matching and benchmark construction
-- Python / C++ / Linux engineering workflows
+</div>
 
-## Technologies
+---
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,linux,ubuntu,ros,git,docker,pytorch,latex,md,vscode,matlab)](https://skillicons.dev)
+## 👤 About Me
 
-`Python` `C` `C++` `Linux` `Ubuntu` `ROS` `Git` `Docker` `PyTorch` `LaTeX` `Markdown` `VS Code` `MATLAB`
+- Studying **Electronic Information Engineering** at Shenzhen University.
+- Working on **ROS-based mobile robot navigation and control**.
+- Exploring **embodied intelligence**, **robot learning**, and **VLA models**.
+- Interested in **AI4LCA**, benchmark construction, and reproducible scientific evaluation.
+- Building practical engineering systems for robotics competitions and research projects.
 
-### Currently Learning
+---
 
-`Embodied AI` `Robot Learning` `VLA Models` `AI4LCA` `Life Cycle Assessment` `Benchmark Construction`
+## 🎯 Current Focus
 
-## GitHub Activity
+| Area | Focus |
+|---|---|
+| 🤖 Robotics | ROS navigation, mobile robot control, localization, path planning |
+| 🧠 Embodied AI | Robot learning, VLA models, simulation-to-real workflows |
+| 🌱 AI4LCA | Activity matching, benchmark construction, method evaluation |
+| 🛠 Engineering | Python, C/C++, Linux, Docker, reproducible experiments |
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wjaywhy&layout=compact&theme=transparent)
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wjaywhy&show_icons=true&theme=transparent)
+## 🛠️ Technologies
 
-## Contribution Snake
+<div align="center">
 
-![GitHub contribution snake animation](./readme/resources/grid-snake.svg)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,linux,ubuntu,ros,opencv,git,github,docker,pytorch,cmake,bash,latex,md,vscode,matlab)](https://skillicons.dev)
 
-## Projects
+</div>
 
-### Smart Pharmacy Robot
+**Languages & Tools**
 
-A ROS-based mobile robot project involving navigation, recognition, scheduling, and robot control for a smart pharmacy competition.
+`Python` `C` `C++` `Linux` `Ubuntu` `ROS` `OpenCV` `Git` `GitHub`  
+`Docker` `PyTorch` `CMake` `Bash` `LaTeX` `Markdown` `VS Code` `MATLAB`
 
-### AI4LCA Activity Matching
+---
 
-Research-oriented work on life-cycle inventory activity matching, benchmark construction, and method evaluation.
+## 🧪 Research and Engineering Interests
 
-## Connect
-
-- GitHub: [@Wjaywhy](https://github.com/Wjaywhy)
+```text
+ROS Navigation · Mobile Robot Control · Embodied AI · Robot Learning
+VLA Models · AI4LCA · Life Cycle Assessment · Benchmark Construction
