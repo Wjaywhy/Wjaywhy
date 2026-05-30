@@ -68,6 +68,20 @@ Undergraduate student interested in robotics, intelligent systems, and AI-assist
 
 ---
 
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./readme/resources/grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./readme/resources/grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="./readme/resources/grid-snake.svg">
+</picture>
+
+</div>
+
 ## 🚀 Projects
 
 ### 🤖 Smart Pharmacy Robot
