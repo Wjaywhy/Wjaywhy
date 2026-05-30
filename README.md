@@ -19,9 +19,13 @@ Undergraduate student interested in robotics, ROS, embodied AI, and AI-assisted 
 
 ## Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,linux,ros,git,docker,pytorch,latex,md,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,linux,ubuntu,ros,git,docker,pytorch,latex,md,vscode,matlab)](https://skillicons.dev)
 
-`Python` `C` `C++` `Linux` `ROS` `Git` `Docker` `PyTorch` `LaTeX` `Markdown` `VS Code`
+`Python` `C` `C++` `Linux` `Ubuntu` `ROS` `Git` `Docker` `PyTorch` `LaTeX` `Markdown` `VS Code` `MATLAB`
+
+### Currently Learning
+
+`Embodied AI` `Robot Learning` `VLA Models` `AI4LCA` `Life Cycle Assessment` `Benchmark Construction`
 
 ## GitHub Activity
 
