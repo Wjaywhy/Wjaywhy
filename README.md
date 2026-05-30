@@ -56,20 +56,6 @@ Undergraduate student interested in robotics, intelligent systems, and AI-assist
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wjaywhy&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wjaywhy&layout=compact)
-
-</div>
-
----
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -81,6 +67,8 @@ Undergraduate student interested in robotics, intelligent systems, and AI-assist
 </picture>
 
 </div>
+
+---
 
 ## 🚀 Projects
 
