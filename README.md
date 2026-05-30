@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Wjaywhy
 
-<!--
-**Wjaywhy/Wjaywhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Undergraduate student interested in robotics, ROS, embodied AI, and AI-assisted engineering systems.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Studying Electronic Information Engineering at Shenzhen University.
+- Working on ROS-based mobile robot navigation and control.
+- Exploring embodied intelligence, robot learning, and VLA models.
+- Interested in AI4LCA, scientific benchmarking, and reproducible experiments.
+- Building practical tools for robotics competitions and research projects.
+
+## Current Focus
+
+- ROS navigation and mobile robot control
+- Embodied AI and robot learning
+- AI4LCA activity matching and benchmark construction
+- Python / C++ / Linux engineering workflows
+
+## Technologies
+
+`Python` `C` `C++` `Linux` `ROS` `Git` `Docker` `PyTorch` `Markdown`
+
+## Projects
+
+### Smart Pharmacy Robot
+
+A ROS-based mobile robot project involving navigation, recognition, scheduling, and robot control for a smart pharmacy competition.
+
+### AI4LCA Activity Matching
+
+Research-oriented work on life-cycle inventory activity matching, benchmark construction, and method evaluation.
+
+## Connect
+
+- GitHub: [@Wjaywhy](https://github.com/Wjaywhy)
