@@ -33,6 +33,10 @@ Undergraduate student interested in robotics, ROS, embodied AI, and AI-assisted 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wjaywhy&show_icons=true&theme=transparent)
 
+## Contribution Snake
+
+![GitHub contribution snake animation](./readme/resources/grid-snake.svg)
+
 ## Projects
 
 ### Smart Pharmacy Robot
