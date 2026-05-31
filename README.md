@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Wang Jiyi 👋
+# Hi, I'm Wjaywhy 👋
 
 ### Robotics · ROS · Embodied AI · AI4LCA
 
